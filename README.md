@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Harsh4601)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh4601&hide=html&bg_color=161b22&text_color=ffffff)<br>
+
 
