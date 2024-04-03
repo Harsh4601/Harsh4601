@@ -19,7 +19,6 @@
 
 * [E-Mail](mailto:londhekarh4601@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/harshlondhekar)
-* [Instagram](https://www.instagram.com/harsh._.4601)
 
 
 
