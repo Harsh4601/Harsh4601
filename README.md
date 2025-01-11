@@ -7,7 +7,6 @@
 * 💻 Ex-SWE at Enphase Eneergy
 * ⚙️ QA Engineer, Automation, Performance Tuning
 * 📱 iOS developer 
-* ⚙️ Flutter development
 * ✨ Looking forward to contribute to some interesting projects 
 
 
